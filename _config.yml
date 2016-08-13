@@ -1,4 +1,3 @@
-layout_spectrum: 0.8772990966681391
 typography_spectrum: 0.6286255703307688
 color:
   brandStrength: 0.1938410885632038
@@ -6,9 +5,11 @@ color:
   saturation: 0.4334495284128934
   rhythmicContrast: 0.21131845889613032
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.8772990966681391
 name: rum rebellion
+description: your Man-Friday
