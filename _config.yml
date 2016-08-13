@@ -1,0 +1,14 @@
+layout_spectrum: 0.8772990966681391
+typography_spectrum: 0.6286255703307688
+color:
+  brandStrength: 0.1938410885632038
+  lightness: 0.9710715850815177
+  saturation: 0.4334495284128934
+  rhythmicContrast: 0.21131845889613032
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: rum rebellion
